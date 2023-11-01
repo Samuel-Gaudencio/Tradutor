@@ -76,5 +76,4 @@ button_play = Button(root, image=vol, bg='#C69749', activebackground='#C69749', 
 button_resete = Button(root, text='Resetar', bg='#C69749', fg="#FFF", font=('Montserrat', 12, 'bold'), relief=FLAT,
                        activebackground='#C69749', activeforeground="#fff", command=resetar)
 
-# Olá meu nome e samuel, meu sonho e ser analista de dados
 root.mainloop()
